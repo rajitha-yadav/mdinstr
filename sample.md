@@ -66,7 +66,9 @@ task list
 
 emojis That is so funny! :joy:
 highlight I need to highlight these ==very important words==.
-subscript: H~2~O
-superscript: X^2^ 
+subscript: 
+H~2~O
+superscript: 
+X^2^ 
 
 [^1]: This is the footnote :joy:.
